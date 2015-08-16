@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">DaChuang</string>
+    <string name="title_section1"> Net Speed:</string>
+    <string name="title_section2"> Signal Intensity:</string>
+    <string name="title_section3"> SIR:</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">----------------</string><string name="action_example">&quot;                           kbps&quot;</string>
+    <string android:layout_height="fill_parent" android:layout_width="wrap_content" android:id="@+id/string1" name="string1">This app is used to demonstrate some parameters about the net condition of a user.</string>
+    
+  
+    
+
+</resources>
